@@ -125,8 +125,5 @@ therefore provides no additional accuracy measurement.
 ## Acknowledgment
 
 Claude and ChatGPT assisted with code development, explanations and
-debugging. The group remains responsible for understanding,
-checking and explaining the submitted work.
-
-We acknowledge the UCI Machine Learning Repository for the dataset
+debugging. We acknowledge the UCI Machine Learning Repository for the dataset
 and the developers of the open-source libraries used.
